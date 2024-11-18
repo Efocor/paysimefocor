@@ -1,0 +1,26 @@
+{
+  "name": "paysimefocor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/client": "^3.11.10",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^3.0.1",
+    "typescript": "^5.6.3"
+  }
+}
